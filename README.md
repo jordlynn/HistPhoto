@@ -1,0 +1,2 @@
+# HistPhoto
+A project for the University of Idaho library. I was tasked with designing a python program that would go through an entire .csv file and find all the names for jpg images. Then check if those images actually exist on the server, once they are found create a new .csv file that will have a column "thumbnail" that will have the image's name in that column or blank if the image doesn't exist.
